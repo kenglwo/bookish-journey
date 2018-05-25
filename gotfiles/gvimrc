@@ -1,0 +1,24 @@
+set guifont=RictyDiminishedDiscord_Nerd_Fon:h20:cSHIFTJIS:qDRAFT
+
+" maximize the size of a window
+autocmd GUIEnter * simalt ~x
+autocmd GUIEnter * cd ..\
+
+autocmd GUIEnter * set transparency=180
+function! s:toggle_transparence()
+    if &transparency == 180
+        set transparency=0
+    else
+        set transparency=180
+    endif
+endfunction
+
+nnoremap <silent> <Space>ot :<C-u>call <SID>toggle_transparence()<CR>
+
+set guioptions-=m
+set guioptions-=T
+set guioptions-=b
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
