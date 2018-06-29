@@ -1,0 +1,31 @@
+[[plugins]]
+repo = 'plasticboy/vim-markdown'
+on_ft = ['md', 'markdown']
+hook_add = '''
+    autocmd BufRead, BufNewFile *.mkd set filetype=markdown
+    autocmd BufRead, BufNewFile *.mk set filetype=markdown
+    let g:vim_markdown_folding_disabled=1
+'''
+
+[[plugins]]
+repo = 'kannokanno/previm'
+on_ft = ['md', 'markdown']
+hook_add = '''
+    nnoremap <silent><C-p> : PrevimOpen<CR>
+    let g:previm_open_cmd = 'open -a Firefox'
+'''
+
+
+[[plugins]]
+repo = 'Shougo/vimshell.vim'
+hook_add = 'nnoremap <silent><Space>vs :VimShellPop<CR>'
+on_map = ['<Space>vs']
+
+[[plugins]]
+repo = 'Shougo/vinarise'
+on_cmd = ['Vinarise']
+
+
+[[plugins]]
+repo = 'tyru/open-browser.vim'
+on_source = ['kannokanno/previm']
