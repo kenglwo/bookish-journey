@@ -1,0 +1,32 @@
+"hour" = "时间";
+"minutes" = "分";
+"seconds" = "秒";
+"start" = "开始";
+"past" = "过去";
+"future" = "未来";
+"result" = "结果";
+"meditation" = "时间";
+"time" = "时间";
+"times" = "次";
+"end" = "结束";
+
+//HissoryViewController.swift
+"history" = "使用记录";
+"date" = "日期";
+
+//confViewController.swift
+"sound" = "声音";
+"highbell" = "钟声(高)";
+"lowbell" = "钟声(低）";
+"rin" = "叮";
+"setting" = "设置";
+"vib" = "震动";
+
+//TabBarItem
+"home" = "主界面";
+
+//ResultViewController.swift
+"alertDelete" = "是否删除所有记录";
+"message" = "删除之后所有记录不能恢复";
+"OK" = "确定";
+"Cancel" = "取消";

@@ -1,0 +1,32 @@
+"hour" = "h";
+"minutes" = "min";
+"seconds" = "sec";
+"start" = "Start";
+"past" = "Past";
+"future" = "Future";
+"result" = "Result";
+"meditation" = "time";
+"time" = "time";
+"times" = "times";
+"end" = "End";
+
+//HissoryViewController.swift
+"history" = "History";
+"date" = "date";
+
+//confViewController.swift
+"sound" = "Sound";
+"highbell" = "temple-bell high";
+"lowbell" = "temple-bell low";
+"rin" = "rin";
+"setting" = "Setting";
+"vib" = "vibration";
+
+//TabBarItem
+"home" = "Home";
+
+//ResultViewController.swift
+"alertDelete" = "Do you delete all datas？";
+"message" = "Datas cannot be restored.";
+"OK" = "OK";
+"Cancel" = "Cancel";

@@ -1,0 +1,33 @@
+"hour" = "時間";
+"minutes" = "分";
+"seconds" = "秒";
+"start" = "開始";
+"past" = "過去";
+"future" = "未来";
+"result" = "結果";
+"meditation" = "時間";
+"time" = "時間";
+"times" = "回";
+"end" = "終了";
+
+//HissoryViewController.swift
+"history" = "利用履歴";
+"date" = "日付";
+
+//confViewController.swift
+"sound" = "サウンド";
+"highbell" = "お寺の鐘(高)";
+"lowbell" = "お寺の鐘(低)";
+"rin" = "鈴(りん)";
+"setting" = "設定";
+"vib" = "バイブレーション";
+
+//TabBarItem
+"home" = "ホーム";
+
+//ResultViewController.swift
+"alertDelete" = "履歴を全て削除していいですか？";
+"message" = "データは復元できません。";
+"OK" = "OK";
+"Cancel" = "キャンセル";
+

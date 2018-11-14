@@ -1,0 +1,33 @@
+
+/* Class = "UITabBarItem"; title = "設定"; ObjectID = "8UQ-Bk-JqN"; */
+"8UQ-Bk-JqN.title" = "設定";
+
+/* Class = "UILabel"; text = "ここに表示"; ObjectID = "E5d-Db-XuD"; */
+"E5d-Db-XuD.text" = "ここに表示";
+
+/* Class = "UIButton"; normalTitle = "未来"; ObjectID = "Fon-FF-cMd"; */
+"Fon-FF-cMd.normalTitle" = "未来";
+
+/* Class = "UILabel"; text = "時間"; ObjectID = "JCF-Wa-4fE"; */
+"JCF-Wa-4fE.text" = "時間";
+
+/* Class = "UIButton"; normalTitle = "開始"; ObjectID = "Ru7-CB-1yY"; */
+"Ru7-CB-1yY.normalTitle" = "開始";
+
+/* Class = "UILabel"; text = "未来"; ObjectID = "WZv-gb-jYC"; */
+"WZv-gb-jYC.text" = "未来";
+
+/* Class = "UITabBarItem"; title = "ホーム"; ObjectID = "aMK-66-JEv"; */
+"aMK-66-JEv.title" = "ホーム";
+
+/* Class = "UIButton"; normalTitle = "終了"; ObjectID = "dBF-0O-Ef1"; */
+"dBF-0O-Ef1.normalTitle" = "終了";
+
+/* Class = "UIButton"; normalTitle = "結果"; ObjectID = "iHB-jm-A8g"; */
+"iHB-jm-A8g.normalTitle" = "結果";
+
+/* Class = "UIButton"; normalTitle = "過去"; ObjectID = "pE3-fO-vQ8"; */
+"pE3-fO-vQ8.normalTitle" = "過去";
+
+/* Class = "UILabel"; text = "過去"; ObjectID = "tbI-TS-Rlm"; */
+"tbI-TS-Rlm.text" = "過去";
