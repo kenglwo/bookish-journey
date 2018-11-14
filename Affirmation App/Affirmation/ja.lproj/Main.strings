@@ -1,0 +1,45 @@
+
+/* Class = "UINavigationItem"; title = "場所"; ObjectID = "4q7-4d-eCK"; */
+"4q7-4d-eCK.title" = "場所";
+
+/* Class = "UITextView"; text = "私は"; ObjectID = "89d-Vs-EnR"; */
+"89d-Vs-EnR.text" = "私は";
+
+/* Class = "UINavigationItem"; title = "詳細"; ObjectID = "BUH-NO-sc1"; */
+"BUH-NO-sc1.title" = "詳細";
+
+/* Class = "UILabel"; text = "本文"; ObjectID = "EX5-qo-gaR"; */
+"EX5-qo-gaR.text" = "本文";
+
+/* Class = "UINavigationItem"; title = "唱えよう!"; ObjectID = "Elv-8l-pOT"; */
+"Elv-8l-pOT.title" = "唱えよう!";
+
+/* Class = "UINavigationItem"; title = "追加"; ObjectID = "bxI-NZ-ILB"; */
+"bxI-NZ-ILB.title" = "追加";
+
+/* Class = "UILabel"; text = "登録日"; ObjectID = "eim-2p-jjT"; */
+"eim-2p-jjT.text" = "登録日";
+
+/* Class = "UIViewController"; title = "DetailViewController"; ObjectID = "gJb-Io-dNX"; */
+"gJb-Io-dNX.title" = "DetailViewController";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "gth-WS-vfR"; */
+"gth-WS-vfR.title" = "Title";
+
+/* Class = "UITextView"; text = "私は"; ObjectID = "hIp-mu-cKf"; */
+"hIp-mu-cKf.text" = "私は";
+
+/* Class = "UIViewController"; title = "EditViewController"; ObjectID = "mzO-70-iYT"; */
+"mzO-70-iYT.title" = "EditViewController";
+
+/* Class = "UILabel"; text = "回数"; ObjectID = "ohW-ed-vf0"; */
+"ohW-ed-vf0.text" = "回数";
+
+/* Class = "UITabBarItem"; title = "ホーム"; ObjectID = "tEh-U0-kPB"; */
+"tEh-U0-kPB.title" = "ホーム";
+
+/* Class = "UINavigationItem"; title = "アファメーション"; ObjectID = "wTg-uG-EF8"; */
+"wTg-uG-EF8.title" = "アファメーション";
+
+/* Class = "UIButton"; normalTitle = "唱える"; ObjectID = "zhh-wH-56V"; */
+"zhh-wH-56V.normalTitle" = "唱える";
